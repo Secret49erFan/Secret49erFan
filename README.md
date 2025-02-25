@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Secret49erFan
-- 👀 I’m interested in Python, Premiere Pro, and After Effect.
+- 👀 I’m interested in Python, Premiere Pro & After Effect (expressions/coding).
 - 🌱 I’m currently learning Python, and Premiere Pro.
 - 💞️ I’m looking to collaborate on open source and beginner projects
 - 📫 How to reach me: @Secret49erFan everywhere (Xitter, Youtube, Twitch, Reddit)
