@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python, and Premiere Pro.
 - 💞️ I’m looking to collaborate on open source and beginner projects
 - 📫 How to reach me: @Secret49erFan everywhere (Xitter, Youtube, Twitch, Reddit)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I owned a pair of solid-red contact lenses in my teens.
 
 <!---
